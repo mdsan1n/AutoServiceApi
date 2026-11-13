@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AutoServiceApi/AutoServiceApi.csproj" />
+  <Project Path="WorkOrdersDesk/WorkOrdersDesk.csproj" Id="661215cd-aa5a-4ba5-8147-91f30d8c44ac" />
+</Solution>
